@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cl_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    tools:context="com.jogger.beautifulapp.function.ui.activity.MainActivity">
+
+    <com.jeremyfeinstein.slidingmenu.SlidingMenu
+        xmlns:sliding="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/sm_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        sliding:behindOffset="50dp"
+        sliding:behindScrollScale="0.35"
+        sliding:fadeDegree="0.35"
+        sliding:fadeEnabled="false"
+        sliding:touchModeAbove="fullscreen"
+        sliding:viewAbove="@layout/main_layout"
+        sliding:viewBehind="@layout/menu_layout"
+        />
+
+    <!--<include-->
+    <!--layout="@layout/menu_layout"/>-->
+</android.support.constraint.ConstraintLayout>

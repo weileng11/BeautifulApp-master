@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml:2:1-9:12
+INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml:2:1-9:12
+INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml:3:11-52
+		INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
+		INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml:5:5-8:37
+	android:supportsRtl
+		ADDED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml:6:9-41
+	android:allowBackup
+		ADDED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml:7:9-36
+uses-sdk
+INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
+INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
+INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
+INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
+		ADDED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
+		INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
+		ADDED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
+		INJECTED from F:\github\dialog\BeautifulApp-master\slidemenulibrary\AndroidManifest.xml
